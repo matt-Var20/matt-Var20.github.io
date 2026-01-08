@@ -1,6 +1,6 @@
 ---
-title: "Custom Built Computer"
-excerpt: "This is a custom computer i built with my brother! 1<br/><img src='files/8c906c9d-2d6d-48f5-a45c-4506364a57c2.jpg'>"
+title: "AWS Educate Introduction to Cloud 101 - Training Badge"
+excerpt: "<br/><img src='images/aws-educate-introduction-to-cloud-101-training-badg'>"
 collection: portfolio
 ---
 
