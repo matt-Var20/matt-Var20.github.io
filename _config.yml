@@ -23,7 +23,7 @@ repository               : "matt-Var20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<br/><img src='images/biophotooo.png'>"
+  avatar           : "<br/><img src='/images/biophotooo.png'>"
   name             : "Matthias Vargas"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my Github Website!"
